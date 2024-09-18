@@ -1,5 +1,4 @@
 # 👋 Olá, Eu sou Allan Gabriel!
-## 🎓 Estudante de Sistemas de Informação | Foco em Back-End | Java | SQL
 
 ## 💡 Sobre mim
 
