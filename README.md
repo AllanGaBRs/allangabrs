@@ -8,7 +8,7 @@ Atualmente, sou estudante de Sistemas de Informação, com foco em desenvolvimen
 
 Linguagens: Java | PHP
 
-Banco de Dados: SQL
+Banco de Dados: MySQL
 
 Ferramentas de Desenvolvimento: VsCode | Eclipse | MySQL Workbench | SceneBuilder
 
