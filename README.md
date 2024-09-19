@@ -10,7 +10,7 @@ Linguagens: Java | PHP
 
 Banco de Dados: MySQL
 
-Ferramentas de Desenvolvimento: VsCode | Eclipse | MySQL Workbench | SceneBuilder
+Ferramentas de Desenvolvimento: VsCode | Eclipse | Spring Tool Suite | MySQL Workbench | SceneBuilder
 
 ## 📈 Estatísticas do GitHub
 
